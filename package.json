@@ -1,0 +1,19 @@
+{
+  "name": "nft-indexer",
+  "version": "1.0.0",
+  "description": "the app to create structures of NFTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NFT",
+    "indexer",
+    "Stargaze"
+  ],
+  "author": "KovalKir <kirill@genesislab.net>",
+  "license": "ISC",
+  "dependencies": {
+    "cosmwasm": "^1.1.1"
+  }
+}
